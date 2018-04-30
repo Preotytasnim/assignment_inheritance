@@ -1,0 +1,7 @@
+﻿  fooDerived.cpp
+c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): error C2385: ambiguous access of 'a'
+  c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): note: could be the 'a' in base 'foo'
+  c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): note: or could be the 'a' in base 'foo2'
+c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): error C2385: ambiguous access of 'b'
+  c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): note: could be the 'b' in base 'foo'
+  c:\users\preoty\source\repos\assignment\assignment\fooderived.cpp(18): note: or could be the 'b' in base 'foo2'
